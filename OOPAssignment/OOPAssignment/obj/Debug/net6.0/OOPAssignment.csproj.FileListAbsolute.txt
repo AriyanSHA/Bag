@@ -1,0 +1,15 @@
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\bin\Debug\net6.0\OOPAssignment.exe
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\bin\Debug\net6.0\OOPAssignment.deps.json
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\bin\Debug\net6.0\OOPAssignment.runtimeconfig.json
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\bin\Debug\net6.0\OOPAssignment.dll
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\bin\Debug\net6.0\OOPAssignment.pdb
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.csproj.AssemblyReference.cache
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.AssemblyInfoInputs.cache
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.AssemblyInfo.cs
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.dll
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\refint\OOPAssignment.dll
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.pdb
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\OOPAssignment.genruntimeconfig.cache
+C:\Users\aryan\source\repos\OOPAssignment\OOPAssignment\obj\Debug\net6.0\ref\OOPAssignment.dll
